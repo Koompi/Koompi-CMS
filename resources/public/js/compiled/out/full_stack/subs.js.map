@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/koompi\/projects\/full-stack\/resources\/public\/js\/compiled\/out\/full_stack\/subs.js","sources":["subs.cljs?rel=1544505235554"],"lineCount":9,"mappings":";AAAA;;;AAIA,gCAAA,hCAACA,kHAEA,WAAKC;AAAL,AACE,OAAA,mFAAOA","names":["re-frame.core\/reg-sub","db"]}

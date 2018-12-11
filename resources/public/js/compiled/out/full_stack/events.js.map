@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/koompi\/projects\/full-stack\/resources\/public\/js\/compiled\/out\/full_stack\/events.js","sources":["events.cljs?rel=1544505235569"],"lineCount":10,"mappings":";AAAA;;;;AAMA,qCAAA,rCAACA,6IAEA,WAAKC,EAAEA;AAAP,AACEC","names":["re-frame.core\/reg-event-db","_","full-stack.db\/default-db"]}
